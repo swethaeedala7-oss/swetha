@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First AWS Website</title>
+</head>
+<body style="text-align:center; font-family:Arial; background-color:#f4f4f4;">
+
+    <h1 style="color:blue;">🚀 Welcome to My Website</h1>
+    <p>This website is hosted on AWS!</p>
+
+    <h2>Hello Swetha 👋</h2>
+    <p>Learning DevOps step by step 💻</p>
+
+</body>
+</html>
